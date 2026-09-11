@@ -15,7 +15,3 @@
 | [AI相关知识笔记](仓库链接) | AI/Agent学习笔记 | [![Stars](https://img.shields.io/github/stars/CharonChui/AINote)](仓库链接) | [![Forks](https://img.shields.io/github/forks/CharonChui/AINote)](仓库链接) |
 
 
-
----
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CharonChui&theme=dracula&column=3)
