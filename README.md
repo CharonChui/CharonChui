@@ -1,24 +1,6 @@
 ### Hi there 👋
 
-<!--
-**CharonChui/CharonChui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+15年Android研发 + 5年技术团队管理，最近半年在做Agent相关功能开发。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-道生一，一生二，二生三，三生万物
-
-> 十年生死两茫茫，不思量，自难忘，        
-> 华年短暂，陈辞岁月悠悠伤，       
-> 满腔热血已芜荒，展未来，后生强，        
-> 战战兢兢，如履薄冰心彷徨，      
-> 青丝化雪、鬓角成霜，已是英雄迟暮，人生怎慷慨激昂？
+热爱技术，喜欢学习、研究和总结
