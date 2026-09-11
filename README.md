@@ -18,4 +18,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharonChui&show_icons=true&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CharonChui&theme=dracula&column=3)
