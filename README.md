@@ -17,15 +17,39 @@
 
 ---
 
+## 开源项目
+
+> 三个长期维护的项目，累计 **4,300+ stars**、**1,100+ forks**。数据由徽章实时同步 GitHub。
+
+### [FullStack-Notes](https://github.com/CharonChui/FullStack-Notes)
+
+覆盖 **Android / C-C++ / Go / HarmonyOS / 前端 / 服务端** 六大技术域的全栈知识库，内容以源码解析与工程实践为主。配套自建静态站点，支持全站搜索、分域索引与深浅色切换。
+
+<a href="https://github.com/CharonChui/FullStack-Notes/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/FullStack-Notes?style=for-the-badge&amp;label=STARS&amp;color=d4a017" height="36" alt="STARS"></a> <a href="https://github.com/CharonChui/FullStack-Notes/forks"><img src="https://img.shields.io/github/forks/CharonChui/FullStack-Notes?style=for-the-badge&amp;label=FORKS&amp;color=4a7ebb" height="36" alt="FORKS"></a> [**在线阅读 →**](https://charonchui.github.io/FullStack-Notes/)
+
+### [CyberLink4Android](https://github.com/CharonChui/CyberLink4Android)
+
+把完整 **UPnP / DLNA 协议栈**带进 Android。应用可直接作为**控制点**，发现并遥控局域网内的电视、音箱、投影与 NAS，实现投屏与媒体推送；也可作为**设备端**，让手机变成可被投屏的媒体源。内置 SSDP 发现、SOAP 控制、GENA 事件订阅与 HTTP 媒体传输，补齐官方 Android 版仅支持 find / browse 的能力缺口。
+
+<a href="https://github.com/CharonChui/CyberLink4Android/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/CyberLink4Android?style=for-the-badge&amp;label=STARS&amp;color=d4a017" height="36" alt="STARS"></a> <a href="https://github.com/CharonChui/CyberLink4Android/forks"><img src="https://img.shields.io/github/forks/CharonChui/CyberLink4Android?style=for-the-badge&amp;label=FORKS&amp;color=4a7ebb" height="36" alt="FORKS"></a>
+
+### [AIStudyNote](https://github.com/CharonChui/AIStudyNote)
+
+面向工程落地的 **AI 学习笔记**：从大模型基础原理、Prompt 工程、Agent 编排，到端侧模型的量化与推理部署，重点记录 AI 能力在移动端的落地路径与踩坑。持续更新中。
+
+<a href="https://github.com/CharonChui/AIStudyNote/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/AIStudyNote?style=for-the-badge&amp;label=STARS&amp;color=d4a017" height="36" alt="STARS"></a> <a href="https://github.com/CharonChui/AIStudyNote/forks"><img src="https://img.shields.io/github/forks/CharonChui/AIStudyNote?style=for-the-badge&amp;label=FORKS&amp;color=4a7ebb" height="36" alt="FORKS"></a>
+
+---
+
 ## 关于我
 
-十多年一线研发，从 Android 客户端起步，现在同时在做全栈和 AI。
+**10 余年移动端研发，5 年团队管理。做过架构决策，也写过业务代码；带过团队从几个人到跨端协作；现在把移动端、全栈与 AI 三条线打通。**
 
-主线是 Android：从早期版本一路做到今天，经历过单工程到模块化的拆分、插件化与热修复的落地、稳定性体系的从无到有，也带过团队从几个人到跨端协作。技术上偏好「先把问题定义清楚，再选最简单的方案」；管理上相信「体系和规范的价值，在于让普通人也做出稳定的结果」。
+**底色是 Android。** 从早期版本一路做到今天，主导过单工程到模块化的拆分、插件化与热修复的落地、稳定性体系从零搭建，也处理过存量系统的长期架构治理。习惯是先把问题定义清楚，再选最简方案。
 
-这两年把能力往两头延伸。一头是**全栈**：服务端、前端、数据库、C/C++ 与 Go，把客户端之外那半条链路也走通，做架构决策时不再只盯自己那一层。另一头是 **AI**：大模型原理、Prompt 与 Agent 编排、端侧模型的推理与部署，追求的是让它真正落进产品，而不是停在 Demo。
+**半径早已超出客户端。** 一头是全栈——服务端、前端、数据库、C/C++ 与 Go，把客户端之外那半条链路走通，做架构选型时不再只盯自己那一层；另一头是 AI——大模型原理、Prompt 与 Agent 编排、端侧模型推理部署，要求是真正落进产品，而不是停在 Demo。
 
-三条线交叉下来，最擅长的其实是判断力——在一个既有且规模不小的系统上，看清什么该改、什么该留，用最小的代价把它推到下一个阶段。
+**最值钱的是判断力。** 在一个既有、规模不小的系统上，看清什么该改、什么该留、什么现在不能动，然后用最小的代价把它推到下一阶段。带团队这些年，把「靠体系而不是靠人」落成了流程和规范。
 
 ## 核心能力
 
@@ -68,18 +92,6 @@
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![OpenGL ES](https://img.shields.io/badge/OpenGL_ES-5586A4?style=flat-square&logo=opengl&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-
-## 开源与知识沉淀
-
-写作是我梳理技术的方式。长期维护的三个开源项目：
-
-| 项目 | 简介 | Star | Fork |
-| :--- | :--- | :--- | :--- |
-| **[FullStack-Notes](https://github.com/CharonChui/FullStack-Notes)**<br>[在线浏览 →](https://charonchui.github.io/FullStack-Notes/) | 全栈开发知识库。按技术域分目录组织 Android、C/C++、Go、HarmonyOS、前端与服务端六大方向，配套静态站点支持全站搜索、分域索引与深浅色切换。 | [![star](https://img.shields.io/github/stars/CharonChui/FullStack-Notes?style=flat-square&label=star&color=d4a017)](https://github.com/CharonChui/FullStack-Notes/stargazers) | [![fork](https://img.shields.io/github/forks/CharonChui/FullStack-Notes?style=flat-square&label=fork&color=4a7ebb)](https://github.com/CharonChui/FullStack-Notes/forks) |
-| **[AIStudyNote](https://github.com/CharonChui/AIStudyNote)** | AI 学习笔记。记录大模型基础原理、Prompt 工程、Agent 编排与端侧模型推理部署的实践路径，聚焦 AI 能力在移动端的工程化落地。 | [![star](https://img.shields.io/github/stars/CharonChui/AIStudyNote?style=flat-square&label=star&color=d4a017)](https://github.com/CharonChui/AIStudyNote/stargazers) | [![fork](https://img.shields.io/github/forks/CharonChui/AIStudyNote?style=flat-square&label=fork&color=4a7ebb)](https://github.com/CharonChui/AIStudyNote/forks) |
-| **[CyberLink4Android](https://github.com/CharonChui/CyberLink4Android)** | 面向 Android 的 UPnP / DLNA 开发包。整合 CyberLink for Java 与 Android 版依赖，补足官方版本仅支持设备查找与浏览的限制，可快速构建设备端与控制点。 | [![star](https://img.shields.io/github/stars/CharonChui/CyberLink4Android?style=flat-square&label=star&color=d4a017)](https://github.com/CharonChui/CyberLink4Android/stargazers) | [![fork](https://img.shields.io/github/forks/CharonChui/CyberLink4Android?style=flat-square&label=fork&color=4a7ebb)](https://github.com/CharonChui/CyberLink4Android/forks) |
-
-> Star 与 Fork 数为实时数据，由徽章自动同步 GitHub。
 
 ## 求职意向
 
