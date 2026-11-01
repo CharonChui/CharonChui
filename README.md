@@ -1,40 +1,42 @@
 <h1 align="center">Charon Chui</h1>
 
 <p align="center">
-  <strong>移动端架构师 / Mobile Architect</strong>
+  <strong>移动端架构师 · 全栈开发 · AI 应用</strong>
 </p>
 
 <p align="center">
-  10 余年 移动端 研发 · 5 年技术团队管理 · 当前主攻端侧 AI 与 全栈开发
+  10 余年移动端研发 · 5 年技术团队管理 · 从客户端到服务端与前端 · 端侧智能与 Agent 工程化
 </p>
 
 <p align="center">
-  <a href="#求职意向"><img src="https://img.shields.io/badge/Open_to_Work-AI%20x%20Mobile-1F883D?style=flat-square" alt="Open to Work"></a>
+  <a href="#求职意向"><img src="https://img.shields.io/badge/Open_to_Work-Android%20%2B%20FullStack%20%2B%20AI-1F883D?style=flat-square" alt="Open to Work"></a>
   <a href="mailto:charon.chui@gmail.com"><img src="https://img.shields.io/badge/charon.chui%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/CharonChui"><img src="https://img.shields.io/badge/GitHub-CharonChui-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://charonchui.github.io/FullStack-Notes/"><img src="https://img.shields.io/badge/Knowledge_Base-628_Notes-2F6FEB?style=flat-square&logo=readthedocs&logoColor=white" alt="Knowledge Base"></a>
+  <a href="https://charonchui.github.io/FullStack-Notes/"><img src="https://img.shields.io/badge/FullStack--Notes-Online_Site-2F6FEB?style=flat-square&logo=readthedocs&logoColor=white" alt="FullStack Notes Site"></a>
 </p>
 
 ---
 
 ## 关于我
 
-从 Android 早期版本一路做到今天，经历过单工程到模块化的拆分、插件化与热修复的落地、稳定性体系的从无到有，也带过团队从几个人到跨端协作。
+十多年一线研发，从 Android 客户端起步，现在同时在做全栈和 AI。
 
-技术上偏好「先把问题定义清楚，再选最简单的方案」；管理上相信「体系和规范的价值，在于让普通人也做出稳定的结果」。
+主线是 Android：从早期版本一路做到今天，经历过单工程到模块化的拆分、插件化与热修复的落地、稳定性体系的从无到有，也带过团队从几个人到跨端协作。技术上偏好「先把问题定义清楚，再选最简单的方案」；管理上相信「体系和规范的价值，在于让普通人也做出稳定的结果」。
 
-近两年重心转向 **端侧智能**：把大模型推理、Agent 编排真正落进移动端，而不是停留在 Demo。这条路径需要同时懂端上的资源约束和模型侧的工程边界，正好是我十多年客户端积累与新方向的交叉点。
+这两年把能力往两头延伸。一头是**全栈**：服务端、前端、数据库、C/C++ 与 Go，把客户端之外那半条链路也走通，做架构决策时不再只盯自己那一层。另一头是 **AI**：大模型原理、Prompt 与 Agent 编排、端侧模型的推理与部署，追求的是让它真正落进产品，而不是停在 Demo。
+
+三条线交叉下来，最擅长的其实是判断力——在一个既有且规模不小的系统上，看清什么该改、什么该留，用最小的代价把它推到下一个阶段。
 
 ## 核心能力
 
 | 领域 | 具体能力 |
 | :--- | :--- |
-| **客户端架构** | 整体架构设计与演进、模块化 / 组件化、插件化与热修复、跨端方案选型与治理、全栈开发 |
+| **客户端架构** | 整体架构设计与演进、模块化 / 组件化、插件化与热修复、跨端方案选型与治理 |
 | **性能与稳定性** | 启动速度、内存与卡顿、包体积优化；Crash / ANR 监控体系搭建与长尾治理 |
-| **端侧 AI** | 端侧模型推理与部署、推理框架选型与裁剪、AI Agent 在移动端的工程化落地 |
+| **全栈开发** | 服务端接口与数据建模、前端工程化、数据库与中间件、C/C++ 与 Go 的混合开发 |
+| **AI 应用** | 大模型应用落地、Prompt 与 Agent 编排、端侧模型推理部署、推理框架选型与裁剪 |
 | **音视频** | FFmpeg 编译与二次开发、OpenGL ES 渲染、播放器内核与编解码链路 |
 | **团队与效能** | 5 年团队管理；研发流程、代码规范、CI/CD 与工程效能体系建设 |
-| **技术输出** | 长期维护开源知识库，累计 600+ 篇系统性笔记，覆盖六个技术域 |
 
 > 以上为能力维度描述。具体项目规模与量化结果，欢迎通过邮件沟通，可提供详细版本。
 
@@ -69,17 +71,15 @@
 
 ## 开源与知识沉淀
 
-写作是我梳理技术的方式。十多年积累下来的笔记已经整理成体系，全部开源：
+写作是我梳理技术的方式。长期维护的三个开源项目：
 
-| 仓库 | 内容 | 规模 |
-| :--- | :--- | :--- |
-| [**FullStack-Notes**](https://github.com/CharonChui/FullStack-Notes) | 全栈开发知识库，按技术域分目录：Android / C-C++ / Go / HarmonyOS / 前端 / 服务端 | 628 篇 |
-| ↳ [在线浏览](https://charonchui.github.io/FullStack-Notes/) | 全站搜索、分域索引、深浅色切换 | 静态站 |
-| [AndroidNote](https://github.com/CharonChui/AndroidNote) | Android 系列笔记（已整合进 FullStack-Notes 的 Android 部分） | 562 篇 |
-| [AIStudyNote](https://github.com/CharonChui/AIStudyNote) | AI 与端侧模型学习总结 | 持续更新 |
-| [GolangStudyNote](https://github.com/CharonChui/GolangStudyNote) | Go 语言学习笔记 | 25 篇 |
+| 项目 | 简介 | Star | Fork |
+| :--- | :--- | :--- | :--- |
+| **[FullStack-Notes](https://github.com/CharonChui/FullStack-Notes)**<br>[在线浏览 →](https://charonchui.github.io/FullStack-Notes/) | 全栈开发知识库。按技术域分目录组织 Android、C/C++、Go、HarmonyOS、前端与服务端六大方向，配套静态站点支持全站搜索、分域索引与深浅色切换。 | [![star](https://img.shields.io/github/stars/CharonChui/FullStack-Notes?style=flat-square&label=star&color=d4a017)](https://github.com/CharonChui/FullStack-Notes/stargazers) | [![fork](https://img.shields.io/github/forks/CharonChui/FullStack-Notes?style=flat-square&label=fork&color=4a7ebb)](https://github.com/CharonChui/FullStack-Notes/forks) |
+| **[AIStudyNote](https://github.com/CharonChui/AIStudyNote)** | AI 学习笔记。记录大模型基础原理、Prompt 工程、Agent 编排与端侧模型推理部署的实践路径，聚焦 AI 能力在移动端的工程化落地。 | [![star](https://img.shields.io/github/stars/CharonChui/AIStudyNote?style=flat-square&label=star&color=d4a017)](https://github.com/CharonChui/AIStudyNote/stargazers) | [![fork](https://img.shields.io/github/forks/CharonChui/AIStudyNote?style=flat-square&label=fork&color=4a7ebb)](https://github.com/CharonChui/AIStudyNote/forks) |
+| **[CyberLink4Android](https://github.com/CharonChui/CyberLink4Android)** | 面向 Android 的 UPnP / DLNA 开发包。整合 CyberLink for Java 与 Android 版依赖，补足官方版本仅支持设备查找与浏览的限制，可快速构建设备端与控制点。 | [![star](https://img.shields.io/github/stars/CharonChui/CyberLink4Android?style=flat-square&label=star&color=d4a017)](https://github.com/CharonChui/CyberLink4Android/stargazers) | [![fork](https://img.shields.io/github/forks/CharonChui/CyberLink4Android?style=flat-square&label=fork&color=4a7ebb)](https://github.com/CharonChui/CyberLink4Android/forks) |
 
-覆盖范围包括：Android 基础与进阶、源码解析、音视频开发、Jetpack、Kotlin、架构设计、算法题解、操作系统，以及 C/C++、Qt、Linux 系统编程、Go Web 开发、HarmonyOS ArkTS、端侧模型与 AI Agent 体系。
+> Star 与 Fork 数为实时数据，由徽章自动同步 GitHub。
 
 ## 求职意向
 
