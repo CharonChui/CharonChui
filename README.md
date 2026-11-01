@@ -19,25 +19,11 @@
 
 ## 开源项目
 
-> 三个长期维护的项目，累计 **4,300+ stars**、**1,100+ forks**。数据由徽章实时同步 GitHub。
-
-### [FullStack-Notes](https://github.com/CharonChui/FullStack-Notes)
-
-覆盖 **Android / C-C++ / Go / HarmonyOS / 前端 / 服务端** 六大技术域的全栈知识库，内容以源码解析与工程实践为主。配套自建静态站点，支持全站搜索、分域索引与深浅色切换。
-
-<a href="https://github.com/CharonChui/FullStack-Notes/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/FullStack-Notes?style=for-the-badge&amp;label=STARS&amp;color=d4a017" height="36" alt="STARS"></a> <a href="https://github.com/CharonChui/FullStack-Notes/forks"><img src="https://img.shields.io/github/forks/CharonChui/FullStack-Notes?style=for-the-badge&amp;label=FORKS&amp;color=4a7ebb" height="36" alt="FORKS"></a> [**在线阅读 →**](https://charonchui.github.io/FullStack-Notes/)
-
-### [CyberLink4Android](https://github.com/CharonChui/CyberLink4Android)
-
-把完整 **UPnP / DLNA 协议栈**带进 Android。应用可直接作为**控制点**，发现并遥控局域网内的电视、音箱、投影与 NAS，实现投屏与媒体推送；也可作为**设备端**，让手机变成可被投屏的媒体源。内置 SSDP 发现、SOAP 控制、GENA 事件订阅与 HTTP 媒体传输，补齐官方 Android 版仅支持 find / browse 的能力缺口。
-
-<a href="https://github.com/CharonChui/CyberLink4Android/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/CyberLink4Android?style=for-the-badge&amp;label=STARS&amp;color=d4a017" height="36" alt="STARS"></a> <a href="https://github.com/CharonChui/CyberLink4Android/forks"><img src="https://img.shields.io/github/forks/CharonChui/CyberLink4Android?style=for-the-badge&amp;label=FORKS&amp;color=4a7ebb" height="36" alt="FORKS"></a>
-
-### [AIStudyNote](https://github.com/CharonChui/AIStudyNote)
-
-面向工程落地的 **AI 学习笔记**：从大模型基础原理、Prompt 工程、Agent 编排，到端侧模型的量化与推理部署，重点记录 AI 能力在移动端的落地路径与踩坑。持续更新中。
-
-<a href="https://github.com/CharonChui/AIStudyNote/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/AIStudyNote?style=for-the-badge&amp;label=STARS&amp;color=d4a017" height="36" alt="STARS"></a> <a href="https://github.com/CharonChui/AIStudyNote/forks"><img src="https://img.shields.io/github/forks/CharonChui/AIStudyNote?style=for-the-badge&amp;label=FORKS&amp;color=4a7ebb" height="36" alt="FORKS"></a>
+| 项目 | 简介 | Star | Fork |
+| :--- | :--- | :---: | :---: |
+| **[FullStack-Notes](https://github.com/CharonChui/FullStack-Notes)** | 覆盖 **Android / C-C++ / Go / HarmonyOS / 前端 / 服务端** 六大技术域的全栈知识库，以源码解析与工程实践为主。 | <a href="https://github.com/CharonChui/FullStack-Notes/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/FullStack-Notes?style=for-the-badge&amp;label=star&amp;color=d4a017" height="26" alt="Stars"></a> | <a href="https://github.com/CharonChui/FullStack-Notes/forks"><img src="https://img.shields.io/github/forks/CharonChui/FullStack-Notes?style=for-the-badge&amp;label=fork&amp;color=4a7ebb" height="26" alt="Forks"></a> |
+| **[CyberLink4Android](https://github.com/CharonChui/CyberLink4Android)** | 完整的 **UPnP / DLNA 协议栈**：可作为控制点发现并遥控局域网内的电视、音箱、投影与 NAS，实现投屏与媒体推送，也可作为设备端被投屏。内置 SSDP、SOAP、GENA 与 HTTP 全链路。 | <a href="https://github.com/CharonChui/CyberLink4Android/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/CyberLink4Android?style=for-the-badge&amp;label=star&amp;color=d4a017" height="26" alt="Stars"></a> | <a href="https://github.com/CharonChui/CyberLink4Android/forks"><img src="https://img.shields.io/github/forks/CharonChui/CyberLink4Android?style=for-the-badge&amp;label=fork&amp;color=4a7ebb" height="26" alt="Forks"></a> |
+| **[AIStudyNote](https://github.com/CharonChui/AIStudyNote)** | 面向工程落地的 **AI 学习笔记**：大模型原理、Prompt 工程、Agent 编排，以及端侧模型的量化与推理部署。持续更新中。 | <a href="https://github.com/CharonChui/AIStudyNote/stargazers"><img src="https://img.shields.io/github/stars/CharonChui/AIStudyNote?style=for-the-badge&amp;label=star&amp;color=d4a017" height="26" alt="Stars"></a> | <a href="https://github.com/CharonChui/AIStudyNote/forks"><img src="https://img.shields.io/github/forks/CharonChui/AIStudyNote?style=for-the-badge&amp;label=fork&amp;color=4a7ebb" height="26" alt="Forks"></a> |
 
 ---
 
