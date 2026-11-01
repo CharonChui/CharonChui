@@ -1,17 +1,19 @@
-<div align="center">
+<h1 align="center">Charon Chui</h1>
 
-# Charon Chui
+<p align="center">
+  <strong>移动端架构师 / Mobile Architect</strong>
+</p>
 
-**移动端架构师 / Mobile Architect**
+<p align="center">
+  15 年 Android 研发 · 5 年技术团队管理 · 当前主攻端侧 AI 与 Agent 架构
+</p>
 
-15 年 Android 研发 · 5 年技术团队管理 · 当前主攻端侧 AI 与 Agent 架构
-
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-AI%20%C3%97%20Mobile-1F883D?style=flat-square)](#求职意向)
-[![Gmail](https://img.shields.io/badge/charon.chui%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:charon.chui@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-CharonChui-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CharonChui)
-[![Notes](https://img.shields.io/badge/Knowledge_Base-628_Notes-2F6FEB?style=flat-square&logo=readthedocs&logoColor=white)](https://charonchui.github.io/FullStack-Notes/)
-
-</div>
+<p align="center">
+  <a href="#求职意向"><img src="https://img.shields.io/badge/Open_to_Work-AI%20x%20Mobile-1F883D?style=flat-square" alt="Open to Work"></a>
+  <a href="mailto:charon.chui@gmail.com"><img src="https://img.shields.io/badge/charon.chui%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://github.com/CharonChui"><img src="https://img.shields.io/badge/GitHub-CharonChui-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://charonchui.github.io/FullStack-Notes/"><img src="https://img.shields.io/badge/Knowledge_Base-628_Notes-2F6FEB?style=flat-square&logo=readthedocs&logoColor=white" alt="Knowledge Base"></a>
+</p>
 
 ---
 
@@ -85,25 +87,23 @@
 | :--- | :--- |
 | **目标岗位** | 移动端架构师 / 端智能架构师 / AI × 移动端技术负责人 |
 | **方向偏好** | 端侧大模型推理、移动端 Agent 化能力建设、客户端架构长期演进 |
-| **期望城市** | <!-- TODO: 填写期望城市，如「上海 / 杭州 / 远程」 -->可沟通 |
+| **期望城市** | <!-- TODO: 改成你的期望城市，如「上海 / 杭州 / 可远程」 --> 可沟通 |
 | **联系方式** | [charon.chui@gmail.com](mailto:charon.chui@gmail.com) |
 | **简历详情** | 完整版简历与项目量化细节，邮件索取即回 |
 
 ## 联系我
 
-- **邮箱**：charon.chui@gmail.com （优先，工作日 24 小时内回复）
+- **邮箱**：[charon.chui@gmail.com](mailto:charon.chui@gmail.com)　优先，工作日 24 小时内回复
 - **GitHub**：[github.com/CharonChui](https://github.com/CharonChui)
 - **Issue 讨论**：任何技术问题都欢迎在对应仓库提 Issue
 
-<div align="center">
-<br/>
-
-*If you're hiring for mobile architecture or edge-AI roles, let's talk.*
-
-</div>
+<p align="center">
+  <br>
+  <em>If you're hiring for mobile architecture or edge-AI roles, let's talk.</em>
+</p>
 
 ---
 
-<div align="center">
-<sub>Copyright (C) 2013 Charon Chui &lt;charon.chui@gmail.com&gt; · Licensed under the Apache License, Version 2.0</sub>
-</div>
+<p align="center">
+  <sub>Copyright (C) 2013 Charon Chui &lt;charon.chui@gmail.com&gt; · Licensed under the Apache License, Version 2.0</sub>
+</p>
